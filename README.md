@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header banner using shields and badges -->
-# Hi, I'm Purity Wanjiku 👋
+# Hi, I'm Purity Wanjiku Macharia👋
 ### Machine Learning Engineer · Data Analyst · Based in Nairobi, Kenya 🇰🇪
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/purity-wanjiku-11581b200)
@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I'm a **Machine Learning Engineer and Data Analyst** with a BSc in Applied Statistics with Programming from Murang'a University of Technology. I don't just run models — I understand the mathematics behind them.
 
