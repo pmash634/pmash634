@@ -2,7 +2,7 @@
 
 <!-- Header banner using shields and badges -->
 # Hi, I'm Purity Wanjiku Macharia👋
-### Machine Learning Engineer · Data Analyst · Based in Nairobi, Kenya 🇰🇪
+### Machine Learning Engineer · Data Analyst .Data scientist · Based in Nairobi, Kenya 🇰🇪
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/purity-wanjiku-11581b200)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puritymacharia111@gmail.com)
