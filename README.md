@@ -22,7 +22,7 @@ My work lives at the intersection of **rigorous statistics** and **practical ML 
 - 🔭 Currently building: end-to-end ML pipelines for regression and classification problems
 - 📊 Background in: Applied Statistics, Hypothesis Testing, Correlation Analysis
 - 🌍 Open to: **Remote ML Engineer ,Data Analyst and Data science roles** (UTC+3, available full-time)
-- 🎯 open to 
+- 🎯 Open to any data analytics ,data science and machine learning roles
 
 ---
 
