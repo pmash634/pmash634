@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header banner using shields and badges -->
-# Hi, I'm Purity Wanjiku Macharia👋
+# Hello, I'm Purity Wanjiku Macharia
 ### Machine Learning Engineer · Data Analyst .Data scientist · Based in Nairobi, Kenya 🇰🇪
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/purity-wanjiku-11581b200)
@@ -15,14 +15,14 @@
 
 ##  About Me
 
-I'm a **Machine Learning Engineer and Data Analyst** with a BSc in Applied Statistics with Programming from Murang'a University of Technology. I don't just run models — I understand the mathematics behind them.
+I'm a Machine Learning Engineer, Data scientist and  Data Analyst with a BSc in Applied Statistics with Programming from Murang'a University of Technology. I don't just run models — I understand the mathematics behind them.
 
 My work lives at the intersection of **rigorous statistics** and **practical ML engineering**: feature engineering, predictive modelling, dimensionality reduction, and building pipelines that are clean, reproducible, and defensible.
 
 - 🔭 Currently building: end-to-end ML pipelines for regression and classification problems
 - 📊 Background in: Applied Statistics, Hypothesis Testing, Correlation Analysis
-- 🌍 Open to: **Remote ML Engineer & Data Analyst roles** (UTC+3, available full-time)
-- 🎯 Target industries: Fintech, Agritech, Healthtech
+- 🌍 Open to: **Remote ML Engineer ,Data Analyst and Data science roles** (UTC+3, available full-time)
+- 🎯 open to 
 
 ---
 
